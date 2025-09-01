@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-📱 **Phone:** +91 9344336319  <br>
-📧 **Email:** yuvaraj68796@gmail.com
+📱 **Phone:** +91 75388 86833  <br>
+📧 **Email:** ashvinz.dev@gmail.com
 </p>
 
 ---
