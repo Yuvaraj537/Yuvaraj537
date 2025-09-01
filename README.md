@@ -10,7 +10,6 @@
 - 🌐 Developing **web applications** using **Flask, Django, and FastAPI**, leveraging **cloud platforms (AWS)** and databases for **end-to-end solutions**.
 ---
 ## 📞 Let's Connect  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/yuvaraj-n-8bb302251">
     <img src="https://img.icons8.com/color/96/linkedin.png" height="40"/>
@@ -23,7 +22,6 @@
 <p align="center">
 📱 **Phone:** +91 9344336319  <br>
 📧 **Email:** yuvaraj68796@gmail.com
-  
 </p>
 ---
 
