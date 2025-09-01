@@ -1,5 +1,6 @@
-<!-- Animated typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Yuvaraj!;🚀+Data+Scientist+%7C+ML+%26+AI+Engineer;📊+Loves+Data+Visualization+%26+Cloud;🤖+Deep+Learning+%7C+NLP+%7C+Gen+AI;🌐+Django+%7C+Flask+%7C+FastAPI)](https://git.io/typing-svg)
+# 👋 Hey, I'm Yuvaraj Nagamuthu
+
+📊 **Data Scientist | Data Analyst**
 
 ---
 ## 🧑‍💻 About Me  
