@@ -2,16 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Yuvaraj!;🚀+Data+Scientist+%7C+ML+%26+AI+Engineer;📊+Loves+Data+Visualization+%26+Cloud;🤖+Deep+Learning+%7C+NLP+%7C+Gen+AI;🌐+Django+%7C+Flask+%7C+FastAPI)](https://git.io/typing-svg)
 
 ---
-
 ## 🧑‍💻 About Me  
 - 📊 I specialize in **Data Analysis**, working with **Excel, Power BI, and Tableau** to clean data, build **interactive dashboards**, and uncover insights through **data modeling, data relations, and storytelling**.  
 - 🧠 Skilled in **Python, SQL, and data handling libraries** (Pandas, NumPy, Matplotlib, Seaborn), enabling me to handle large datasets, perform **EDA**, and apply **feature scaling and feature engineering**.  
 - 🔭 Experienced in **Machine Learning**, building models, applying algorithms, evaluating performance, and making predictions. Explored **Deep Learning** with **ANN, RNN, and CNN**, tackling complex predictive problems.  
 - ☁️ Working with **Generative AI**, using **OpenAI, Hugging Face, and n8n** for AI-powered solutions.  
 - 🌐 Developing **web applications** using **Flask, Django, and FastAPI**, leveraging **cloud platforms (AWS)** and databases for **end-to-end solutions**.
-
 ---
-
 ## 🌱 Career Goals & Passion  
 🎯 **Goal:** Become a self-reliant, full-stack **Data Scientist** capable of leading projects end-to-end.  
 
@@ -33,9 +30,7 @@
 💫 *Mission:* Transform data into insights, insights into action, and action into impact.
 
 ---
-
 ## ⚡ Tech Stack  
-
 ### 🐍 Data Science & ML  
 **Languages & Libraries**  
 <p align="left">
@@ -88,7 +83,6 @@
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Yuvaraj537&show_icons=true&count_private=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj537&layout=compact" height="150"/>
