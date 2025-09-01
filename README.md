@@ -10,20 +10,30 @@
 - 🌐 Developing **web applications** using **Flask, Django, and FastAPI**, leveraging **cloud platforms (AWS)** and databases for **end-to-end solutions**.
 ---
 ## 📞 Let's Connect  
+
 <p align="center">
-  <a href=https://www.linkedin.com/in/yuvaraj-n-8bb302251>
+  <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://img.icons8.com/color/96/linkedin.png" height="40"/>
   </a>
   <a href="https://github.com/Yuvaraj537">
     <img src="https://img.icons8.com/color/96/github.png" height="40"/>
   </a>
+  <a href="https://hub.docker.com/u/YOUR_DOCKER_PROFILE">
+    <img src="https://img.icons8.com/color/96/docker.png" height="40"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+    <img src="https://img.icons8.com/color/96/twitter.png" height="40"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_PROFILE/">
+    <img src="https://img.icons8.com/color/96/leetcode.png" height="40"/>
+  </a>
 </p>
 
 <p align="center">
-📱 **Phone:** +91 9344336319  <br>
-📧 **Email:**yuvaraj687962@gmail.com
+📱 **Phone:** +91 75388 86833  <br>
+📧 **Email:** ashvinz.dev@gmail.com
 </p>
-
+---
 ## 🌱 Career Goals & Passion  
 🎯 **Goal:** Become a self-reliant, full-stack **Data Scientist** capable of leading projects end-to-end.  
 
