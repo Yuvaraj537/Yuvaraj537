@@ -16,17 +16,8 @@
   <a href="https://www.linkedin.com/in/yuvaraj-n-8bb302251">
     <img src="https://img.icons8.com/color/96/linkedin.png" height="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Yuvaraj537">
     <img src="https://img.icons8.com/color/96/github.png" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hub.docker.com/u/YOUR_DOCKER_PROFILE">
-    <img src="https://img.icons8.com/color/96/docker.png" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.icons8.com/color/96/twitter.png" height="40"/>
   </a>
 </p>
 
@@ -122,17 +113,3 @@
 </p>
 
 ---
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.icons8.com/color/96/linkedin.png" height="50"/>
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail.png" height="50"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.icons8.com/color/96/domain.png" height="50"/>
-  </a>
-</p>
