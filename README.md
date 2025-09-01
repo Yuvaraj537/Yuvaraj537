@@ -9,11 +9,8 @@
 - 📊 Skilled in **Data Visualization (Power BI, Tableau, Excel)**  
 - ☁️ Comfortable with **Cloud Databases (MySQL, PostgreSQL, Oracle)**  
 - 🌐 I enjoy building **AI-powered Web Applications**  
-
 ---
-
 ## ⚡ Tech Stack  
-
 ### 🐍 Data Science & ML  
 ### 🔧 Tech Stack  
 **Languages & Libraries**  
@@ -50,12 +47,14 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>  
-</p>
----
+<!-- GitHub Stats -->
+![Yuvaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvaraj537&show_icons=true&count_private=true)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj537&layout=compact)
+
+<!-- Streak (optional) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Yuvaraj537)
 
 ## 🌐 Connect with Me  
 <p align="center">
