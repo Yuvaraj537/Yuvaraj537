@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yuvaraj Nagamuthu
+# 👋 Yuvaraj Nagamuthu
 
 📊 **Data Scientist | Data Analyst**
 
