@@ -9,6 +9,7 @@
 - ☁️ Working with **Generative AI**, using **OpenAI, Hugging Face, and n8n** for AI-powered solutions.  
 - 🌐 Developing **web applications** using **Flask, Django, and FastAPI**, leveraging **cloud platforms (AWS)** and databases for **end-to-end solutions**.
 ---
+
 ## 📞 Let's Connect  
 
 <p align="center">
@@ -18,6 +19,18 @@
   &nbsp;&nbsp;
   <a href="https://github.com/Yuvaraj537">
     <img src="https://img.icons8.com/color/96/github.png" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hub.docker.com/u/YOUR_DOCKER_PROFILE">
+    <img src="https://img.icons8.com/color/96/docker.png" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+    <img src="https://img.icons8.com/color/96/twitter.png" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/YOUR_LEETCODE_PROFILE/">
+    <img src="https://img.icons8.com/color/96/leetcode.png" height="40"/>
   </a>
 </p>
 
