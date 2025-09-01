@@ -1,14 +1,14 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Yuvaraj!;🚀+Data+Scientist+%7C+ML+%26+AI+Enthusiast;💡+Building+ML+%26+AI+Apps;🌐+Exploring+Automation+%26+Cloud)](https://git.io/typing-svg)
+<!-- Animated typing -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Yuvaraj!;🚀+Data+Scientist+%7C+ML+%26+AI+Engineer;📊+Loves+Data+Visualization+%26+Cloud;🤖+Deep+Learning+%7C+NLP+%7C+Gen+AI;🌐+Django+%7C+Flask+%7C+FastAPI)](https://git.io/typing-svg)
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Passionate about **Data Science & Machine Learning**  
-- 🧠 Skilled in **Deep Learning, NLP, and Generative AI**  
-- 🌐 Love building **Web Apps (Flask, Django, FastAPI)**  
-- 📊 Into **Data Visualization & BI (Power BI, Tableau, Excel)**  
-- ☁️ Databases & Cloud: **MySQL, PostgreSQL, Oracle**  
+## 🧑‍💻 About Me  
+- 🔭 I specialize in **Data Science, Machine Learning, and Deep Learning**  
+- 🧠 Experienced with **NLP, Generative AI, and Automation**  
+- 📊 Skilled in **Data Visualization (Power BI, Tableau, Excel)**  
+- ☁️ Comfortable with **Cloud Databases (MySQL, PostgreSQL, Oracle)**  
+- 🌐 I enjoy building **AI-powered Web Applications**  
 
 ---
 
@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/> &nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a8a5e1-2e06-40a0-bb56-6022a0a5d2a5.png" height="60"/> &nbsp; <!-- Matplotlib -->
+  <img src="https://matplotlib.org/_static/logo_dark.svg" height="60"/> &nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60"/> &nbsp;
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="60"/>
 </p>
@@ -46,7 +46,7 @@
   <img src="https://img.icons8.com/color/96/ms-excel.png" height="60"/>
 </p>
 
-### 🤝 AI & Automation  
+### ⚙️ AI & Automation  
 <p align="center">
   <img src="https://seeklogo.com/images/N/n8n-logo-9B2742A728-seeklogo.com.png" height="60"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="60"/> &nbsp;
@@ -67,15 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>  
 </p>
-
----
-
-## 🚀 Featured Projects  
-- 🧠 [Stroke Prediction Web App](https://github.com/YOUR_USERNAME/stroke-prediction)  
-- 📊 [Banking Dashboard](https://github.com/YOUR_USERNAME/banking-dashboard)  
-- 🌱 [Leaf Disease Detection](https://github.com/YOUR_USERNAME/orange-disease-ml)  
-- 🎵 [Spotify Recommendation App](https://github.com/YOUR_USERNAME/spotify-recommendation)  
-
 ---
 
 ## 🌐 Connect with Me  
