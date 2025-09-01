@@ -70,7 +70,6 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" height="30"/>
 <img src="https://img.shields.io/badge/LLM-00BFFF?logo=openai&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/n8n-1B1B1B?logo=n8n&logoColor=white" height="30"/>
 </p>
 
 **Automation&Tools**  
