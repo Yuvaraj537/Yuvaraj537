@@ -11,7 +11,6 @@
 ---
 ## ⚡ Tech Stack  
 ### 🐍 Data Science & ML  
-### 🔧 Tech Stack  
 **Languages & Libraries**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
