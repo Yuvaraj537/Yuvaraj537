@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-📱 **Phone:** +91 75388 86833  <br>
-📧 **Email:** ashvinz.dev@gmail.com
+📱 Phone:+91 75388 86833  <br>
+📧 Email: ashvinz.dev@gmail.com
 </p>
 
 ---
