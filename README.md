@@ -28,15 +28,11 @@
   <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
     <img src="https://img.icons8.com/color/96/twitter.png" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_PROFILE/">
-    <img src="https://img.icons8.com/color/96/leetcode.png" height="40"/>
-  </a>
 </p>
 
 <p align="center">
-📱 **Phone:** +91 75388 86833  <br>
-📧 **Email:** ashvinz.dev@gmail.com
+📱Phone: +91 9344336319  <br>
+📧 Email: yuvaraj68796@gmail.com
 </p>
 
 ---
