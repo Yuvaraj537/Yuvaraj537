@@ -9,6 +9,21 @@
 - ☁️ Working with **Generative AI**, using **OpenAI, Hugging Face, and n8n** for AI-powered solutions.  
 - 🌐 Developing **web applications** using **Flask, Django, and FastAPI**, leveraging **cloud platforms (AWS)** and databases for **end-to-end solutions**.
 ---
+## 📞 Let's Connect  
+<p align="center">
+  <a href=https://www.linkedin.com/in/yuvaraj-n-8bb302251>
+    <img src="https://img.icons8.com/color/96/linkedin.png" height="40"/>
+  </a>
+  <a href="https://github.com/Yuvaraj537">
+    <img src="https://img.icons8.com/color/96/github.png" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+📱 **Phone:** +91 9344336319  <br>
+📧 **Email:**yuvaraj687962@gmail.com
+</p>
+
 ## 🌱 Career Goals & Passion  
 🎯 **Goal:** Become a self-reliant, full-stack **Data Scientist** capable of leading projects end-to-end.  
 
