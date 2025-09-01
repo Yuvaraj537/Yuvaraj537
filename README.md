@@ -1,31 +1,92 @@
-# Hi there 👋, I'm Yuvaraj  
-🚀 Data Scientist | ML & AI Enthusiast | Data Analyst
-## 🛠️ Tech Stack
-**Languages & Libraries**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=flat)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Yuvaraj!;🚀+Data+Scientist+%7C+ML+%26+AI+Enthusiast;💡+Building+ML+%26+AI+Apps;🌐+Exploring+Automation+%26+Cloud)](https://git.io/typing-svg)
 
-**Databases & Cloud**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)  
+---
 
-**Data Visualization**  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
+## 🧑‍💻 About Me
+- 🔭 Passionate about **Data Science & Machine Learning**  
+- 🧠 Skilled in **Deep Learning, NLP, and Generative AI**  
+- 🌐 Love building **Web Apps (Flask, Django, FastAPI)**  
+- 📊 Into **Data Visualization & BI (Power BI, Tableau, Excel)**  
+- ☁️ Databases & Cloud: **MySQL, PostgreSQL, Oracle**  
 
-**Deep Learning & NLP**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
-![NLTK](https://img.shields.io/badge/-NLTK-154D83?style=flat)
+---
 
-**Automation & AI**  
-![n8n](https://img.shields.io/badge/-n8n-EA4C89?style=flat&logo=n8n)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)  
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface)
+## ⚡ Tech Stack  
 
-**Web Frameworks**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+### 🐍 Data Science & ML  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/> &nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a8a5e1-2e06-40a0-bb56-6022a0a5d2a5.png" height="60"/> &nbsp; <!-- Matplotlib -->
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60"/> &nbsp;
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="60"/>
+</p>
+
+### 🤖 Deep Learning & NLP  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/> &nbsp;
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*kXbXNA05LZzHRx7UmvGr6w.png" height="60"/> <!-- NLTK -->
+</p>
+
+### 🗄️ Databases & Cloud  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60"/>
+</p>
+
+### 📊 Data Visualization & BI  
+<p align="center">
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="60"/> &nbsp;
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="60"/> &nbsp;
+  <img src="https://img.icons8.com/color/96/ms-excel.png" height="60"/>
+</p>
+
+### 🤝 AI & Automation  
+<p align="center">
+  <img src="https://seeklogo.com/images/N/n8n-logo-9B2742A728-seeklogo.com.png" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="60"/> &nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60"/>
+</p>
+
+### 🌐 Web Frameworks  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>  
+</p>
+
+---
+
+## 🚀 Featured Projects  
+- 🧠 [Stroke Prediction Web App](https://github.com/YOUR_USERNAME/stroke-prediction)  
+- 📊 [Banking Dashboard](https://github.com/YOUR_USERNAME/banking-dashboard)  
+- 🌱 [Leaf Disease Detection](https://github.com/YOUR_USERNAME/orange-disease-ml)  
+- 🎵 [Spotify Recommendation App](https://github.com/YOUR_USERNAME/spotify-recommendation)  
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.icons8.com/color/96/linkedin.png" height="50"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail.png" height="50"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.icons8.com/color/96/domain.png" height="50"/>
+  </a>
+</p>
