@@ -10,24 +10,19 @@
 - 🌐 Developing **web applications** using **Flask, Django, and FastAPI**, leveraging **cloud platforms (AWS)** and databases for **end-to-end solutions**.
 ---
 ## 🌱 Career Goals & Passion  
-
 🎯 **Goal:** Become a self-reliant, full-stack **Data Scientist** capable of leading projects end-to-end.  
-
 💡 **Passion:**  
 - Designing **scalable Machine Learning systems** 🚀  
 - Building **AI applications** 🤖  
 - Automating **data workflows** ⚡  
-
 🛠️ **Focus:**  
 - Solve **real-world challenges** using data 🌐  
 - Strong belief in **independent execution** ✨  
 - Applying **practical problem-solving** 🧩  
-
 🧠 **Learning & Growth:**  
 - Constantly **experimenting** 🔬  
 - Expanding knowledge in **AI, automation, and data engineering** 📚  
 - Exploring **cutting-edge tools** like OpenAI, Hugging Face, n8n, and cloud platforms ☁️  
-
 💫 *Mission:* Transform data into insights, insights into action, and action into impact.  
 ---
 ## ⚡ Tech Stack  
