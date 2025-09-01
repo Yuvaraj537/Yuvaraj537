@@ -1,14 +1,8 @@
 # Hi there 👋, I'm Yuvaraj  
 🚀 Data Scientist | ML & AI Enthusiast | Data Analyst
-
 ## 🛠️ Tech Stack
-
 **Languages & Libraries**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat) ![Seaborn](https://img.shields.io/badge/-Seaborn-009688?style=flat)
 
 **Databases & Cloud**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
