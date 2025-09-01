@@ -11,19 +11,22 @@
 ---
 ## 🌱 Career Goals & Passion  
 🎯 **Goal:** Become a self-reliant, full-stack **Data Scientist** capable of leading projects end-to-end.  
+
 💡 **Passion:**  
 - Designing **scalable Machine Learning systems** 🚀  
 - Building **AI applications** 🤖  
 - Automating **data workflows** ⚡  
-🛠️ **Focus:**  
+🛠️ **Focus:**
+
 - Solve **real-world challenges** using data 🌐  
 - Strong belief in **independent execution** ✨  
-- Applying **practical problem-solving** 🧩  
+- Applying **practical problem-solving** 🧩
+-   
 🧠 **Learning & Growth:**  
 - Constantly **experimenting** 🔬  
 - Expanding knowledge in **AI, automation, and data engineering** 📚  
-- Exploring **cutting-edge tools** like OpenAI, Hugging Face, n8n, and cloud platforms ☁️  
-💫 *Mission:* Transform data into insights, insights into action, and action into impact.  
+- Exploring **cutting-edge tools** like OpenAI, Hugging Face, n8n, and cloud platforms ☁️
+- 💫*Mission:* Transform data into insights, insights into action, and action into impact.  
 ---
 ## ⚡ Tech Stack  
 ### 🐍 Data Science & ML  
@@ -44,22 +47,30 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-**Machine Learning & AI**  
+**Machine Learning**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F8B?logo=python&logoColor=white)
 
-**Generative AI & Automation**  
+**Generative AI & LLM Tool**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-1B1B1B?logo=n8n&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-00BFFF?logo=openai&logoColor=white)
+
+## ⚡ Automation Tool  
+![n8n](https://img.shields.io/badge/n8n-1B1B1B?logo=n8n&logoColor=white) 
 
 **Web Frameworks**  
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+**Deployment**  
+<!-- AWS Badge -->
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
 <!-- GitHub Stats -->
 ![Yuvaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvaraj537&show_icons=true&count_private=true)
