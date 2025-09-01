@@ -15,52 +15,40 @@
 ## ⚡ Tech Stack  
 
 ### 🐍 Data Science & ML  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/> &nbsp;
-  <img src="https://matplotlib.org/_static/logo_dark.svg" height="60"/> &nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60"/> &nbsp;
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="60"/>
-</p>
+### 🔧 Tech Stack  
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
 
-### 🤖 Deep Learning & NLP  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/> &nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*kXbXNA05LZzHRx7UmvGr6w.png" height="60"/> <!-- NLTK -->
-</p>
+**Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### 🗄️ Databases & Cloud  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60"/>
-</p>
+**Visualization**  
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-### 📊 Data Visualization & BI  
-<p align="center">
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="60"/> &nbsp;
-  <img src="https://img.icons8.com/color/96/tableau-software.png" height="60"/> &nbsp;
-  <img src="https://img.icons8.com/color/96/ms-excel.png" height="60"/>
-</p>
+**Machine Learning & AI**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F8B?logo=python&logoColor=white)
 
-### ⚙️ AI & Automation  
-<p align="center">
-  <img src="https://seeklogo.com/images/N/n8n-logo-9B2742A728-seeklogo.com.png" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="60"/> &nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60"/>
-</p>
+**Generative AI & Automation**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-1B1B1B?logo=n8n&logoColor=white)
 
-### 🌐 Web Frameworks  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60"/>
-</p>
-
----
+**Web Frameworks**  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ## 📊 GitHub Stats  
 <p align="center">
