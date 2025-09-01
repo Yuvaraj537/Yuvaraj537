@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" height="30"/>
 </p>
 
-**Machine Learning & AI**  
+**Machine Learning & DeepLearning**  
 <p align="left">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="30"/>
@@ -65,11 +65,16 @@
 <img src="https://img.shields.io/badge/NLTK-154F8B?logo=python&logoColor=white" height="30"/>
 </p>
 
-**Generative AI & LLM Tools**  
+**Generative AI&LLM Tools**  
 <p align="left">
 <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black" height="30"/>
 <img src="https://img.shields.io/badge/LLM-00BFFF?logo=openai&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/n8n-1B1B1B?logo=n8n&logoColor=white" height="30"/>
+</p>
+
+**Automation&Tools**  
+<p align="left">
 <img src="https://img.shields.io/badge/n8n-1B1B1B?logo=n8n&logoColor=white" height="30"/>
 </p>
 
