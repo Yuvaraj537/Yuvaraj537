@@ -1,4 +1,4 @@
-# 👋 Yuvaraj Nagamuthu
+# 👋 Yuvaraj N
 
 📊 **Data Scientist | Data Analyst**
 
